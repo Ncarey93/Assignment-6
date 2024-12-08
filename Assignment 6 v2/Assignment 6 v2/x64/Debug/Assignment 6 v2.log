@@ -1,0 +1,19 @@
+﻿  main.cpp
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(92,21): error C2760: syntax error: '{' was unexpected here; expected 'expression'
+      E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(92,21):
+      the template instantiation context (the oldest one first) is
+          E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(20,11):
+          while compiling class template 'HashTableTot::HashTable'
+  
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(92,21): error C3878: syntax error: unexpected token '{' following 'expression'
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(92,21): message : error recovery skipped: '{ return identifier  . . . identifier'
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(94,21): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(94,21): error C3878: syntax error: unexpected token ')' following 'statement'
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(94,21): error C3878: syntax error: unexpected token ')' following 'statement_seq'
+      E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(94,21):
+      missing one of:  '}' ?
+  
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(94,21): error C2760: syntax error: ')' was unexpected here; expected '}'
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(94,21): error C3878: syntax error: unexpected token ')' following 'compound_statement'
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(94,21): error C3878: syntax error: unexpected token ')' following 'selection_statement'
+E:\Project Files\MS549\Assignment 6 v2\Assignment 6 v2\main.cpp(94,21): message : error recovery skipped: ')'
